@@ -144,3 +144,10 @@ document.getElementById('currency-form').addEventListener('submit', async functi
 # Tratamento de Erros
 
 Caso a API de taxas de câmbio externa esteja indisponível ou algum parâmetro esteja incorreto, a API retornará uma mensagem de erro detalhada.
+
+# novas linguagens:
+* ## async:
+ O termo async em programação (especialmente em JavaScript e Python) é uma palavra-chave usada para definir funções assíncronas, ou seja, funções que podem "pausar" sua execução para aguardar o resultado de uma operação que pode demorar (como chamadas de API ou operações de leitura de arquivos) e depois continuar de onde pararam.
+
+* ## try:
+Em várias linguagens de programação, o try é uma palavra-chave usada para iniciar um bloco de código em que queremos tentar executar operações que podem causar erros. Em conjunto com catch (ou except em Python) e finally, ele é essencial para o tratamento de exceções, ou seja, para lidar com erros de forma controlada.
