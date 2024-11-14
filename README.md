@@ -151,3 +151,16 @@ Caso a API de taxas de câmbio externa esteja indisponível ou algum parâmetro 
 
 * ## try:
 Em várias linguagens de programação, o try é uma palavra-chave usada para iniciar um bloco de código em que queremos tentar executar operações que podem causar erros. Em conjunto com catch (ou except em Python) e finally, ele é essencial para o tratamento de exceções, ou seja, para lidar com erros de forma controlada.
+
+* ## response.json:
+ O json()método da Responseinterface pega um Responsefluxo e o lê até a conclusão. Ele retorna uma promessa que resolve com o resultado da análise do texto do corpo como JSON.
+
+ * ## try-catch
+ As declarações try...catch marcam um bloco de declarações para testar (try), e especifica uma resposta, caso uma exceção seja lançada
+ A declaração try consiste em um bloco try, que contém uma ou mais declarações, e ao menos uma cláusula catch ou uma cláusula finally, ou ambas. Ou seja, há 3 formas de declarações try .
+ 
+ * ## null:
+ O nullvalor representa a ausência intencional de qualquer valor de objeto. É um dos valores primitivos do JavaScript e é tratado como false para operações booleanas.
+
+ * ## return
+ Quando uma declaração return é usada em um corpo de função, a execução dessa função é parada. Se especificado, um dado valor é retornado à quem chamou a função. Se a expressão for omitida, undefined será retornado. Todas as declarações return a seguir param a execução da função
