@@ -164,3 +164,16 @@ Em várias linguagens de programação, o try é uma palavra-chave usada para in
 
  * ## return
  Quando uma declaração return é usada em um corpo de função, a execução dessa função é parada. Se especificado, um dado valor é retornado à quem chamou a função. Se a expressão for omitida, undefined será retornado. Todas as declarações return a seguir param a execução da função
+
+
+## Este trabalho foi desenvolvido nas aulas de web programação para saver e ver a taxa de cambio de cada moeda em tempo real 
+
+
+
+link para as pesquisas das funções:
+
+
+ [web docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/return)
+
+
+ 
